@@ -1,8 +1,8 @@
 # Support Vector Machine Classification
 
 
-## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
-This is a project to demonstrate the use of Support Vector MNachines in the prediction of mouse behaviour and mouse genotype based on protein expression levels. 
+## NON-TECHNICAL EXPLANATION
+This is a project to demonstrate the use of Support Vector Machines in the prediction of mouse behaviour and mouse genotype based on protein expression levels. 
 
 
 ## DATA & METHODOLOGY

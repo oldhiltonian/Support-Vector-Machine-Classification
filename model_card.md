@@ -8,7 +8,8 @@
 **Model Architecture:** Support Vector Machine with linear kernel and internal regularization.
 
 ## Performance
-You can include images of plots using the code below:
+Model Performance can be seen in the image below:
+
 ![Screenshot](model_performance.png)
 
 ## Limitations
