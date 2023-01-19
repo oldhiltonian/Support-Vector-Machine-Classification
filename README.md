@@ -24,7 +24,7 @@ There are numerous questions that can be investigated using this dataset.
 Once the above 4 Cases have been briefly explored, Case 1 will be revisited and the hyperparameters optimized.
 
 ## MODEL 
-There are numerous things to consuider in model selection. The first is the fact that this is a classification problem, so our models must be chosen accordingly. The inputs to the model are all numeric (float) values. The key factor in model choice for this application is the high dimensionality of the dataset. There are roughly 70 proteins that are present in the dataset. I believe that the ideal model choice for this application is the Support Vector MAchine, due to their favorable performance in high dimensions.
+There are numerous things to consuider in model selection. The first is the fact that this is a classification problem, so our models must be chosen accordingly. The inputs to the model are all numeric (float) values. The key factor in model choice for this application is the high dimensionality of the dataset. There are roughly 70 proteins that are present in the dataset. I believe that the ideal model choice for this application is the Support Vector Machine, due to their favorable performance in high dimensions.
 
 ## HYPERPARAMETER OPTIMSATION
 The hyperparameters chosen for optimization are the kernel type and the level of regularization taking place in the model.
